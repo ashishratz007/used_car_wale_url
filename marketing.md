@@ -1,7 +1,7 @@
-# Marketing Page for Used Car Wale App
+# Marketing Page for Used Carz Hub App
 
 ## **App Name:**  
-**Used Car Wale**
+**Used Carz Hub**
 
 ---
 
@@ -11,7 +11,7 @@ _The Ultimate Bidding Platform for Car Dealers._
 ---
 
 ## **About the App:**  
-Used Car Wale is a cutting-edge platform designed exclusively for car dealers to simplify the process of managing car listings, auctions, and sales. With a focus on analytics and a seamless user experience, the app ensures dealers can make smarter decisions and grow their business with ease.
+Used Carz Hub is a cutting-edge platform designed exclusively for car dealers to simplify the process of managing car listings, auctions, and sales. With a focus on analytics and a seamless user experience, the app ensures dealers can make smarter decisions and grow their business with ease.
 
 ---
 
@@ -45,7 +45,7 @@ Used Car Wale is a cutting-edge platform designed exclusively for car dealers to
 
 ---
 
-## **Why Choose Used Car Wale?**
+## **Why Choose Used Carz Hub?**
 - **Easy-to-Use Interface:** Built specifically for car dealers, making it simple and efficient.  
 - **Powerful Analytics:** Track performance, bids, and sales with detailed insights.  
 - **Real-Time Updates:** Always stay updated on the status of your car listings and bids.  
@@ -67,7 +67,7 @@ Used Car Wale is a cutting-edge platform designed exclusively for car dealers to
 ---
 
 ## **Call to Action:**  
-_Download **Used Car Wale** today and take your car dealership to the next level!_
+_Download **Used Carz Hub** today and take your car dealership to the next level!_
 
 ---
 
@@ -98,4 +98,4 @@ _Download **Used Car Wale** today and take your car dealership to the next level
 
 ---
 
-**© 2025 Used Car Wale. All rights reserved.**
+**© 2025 Used Carz Hub. All rights reserved.**
