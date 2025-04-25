@@ -87,14 +87,14 @@ _Download **Used Carz Hub** today and take your car dealership to the next level
 ---
 
 ## **Contact & Support**  
-- **Email:** [support@usedcarwale.com](mailto:support@usedcarwale.com)  
-- **Website:** [https://usedcarwale.com](https://usedcarwale.com)  
+- **Email:** [support@usedcarzhub.com](mailto:support@usedcarzhub.com)  
+- **Website:** [https://usedcarzhub.com](https://usedcarzhub.com)  
 - **Phone:** +1 234-567-8900  
 
 **Follow Us on Social Media:**  
-- **Facebook:** [facebook.com/usedcarwale](https://facebook.com/usedcarwale)  
-- **Instagram:** [instagram.com/usedcarwale](https://instagram.com/usedcarwale)  
-- **Twitter:** [twitter.com/usedcarwale](https://twitter.com/usedcarwale)
+- **Facebook:** [facebook.com/usedcarzhub](https://facebook.com/usedcarzhub)  
+- **Instagram:** [instagram.com/usedcarzhub](https://instagram.com/usedcarzhub)  
+- **Twitter:** [twitter.com/usedcarzhub](https://twitter.com/usedcarzhub)
 
 ---
 
