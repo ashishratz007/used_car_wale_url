@@ -1,11 +1,12 @@
-# Support - Used Car Wale App
 
-Welcome to the official support page for the **Used Car Wale App**. This document provides answers to frequently asked questions, contact information, and details about the app's functionality.
+# Support - Used Carz Hub App
+
+Welcome to the official support page for the **Used Carz Hub App**. This document provides answers to frequently asked questions, contact information, and details about the app's functionality.
 
 ---
 
 ## **About the App**
-Used Car Wale is a platform designed specifically for car dealers to:
+Used Carz Hub is a platform designed specifically for car dealers to:
 - Register and manage their accounts.
 - Add cars for bidding and manage their status (Under Review, Approved, Sold, Archived).
 - View analytics and recent bids on an intuitive dashboard.
@@ -59,8 +60,8 @@ For more information about our terms of service and privacy policy, visit:
 ---
 
 ## **Feedback**
-We value your feedback! Please let us know how we can improve the Used Car Wale App by contacting us via email or phone.
+We value your feedback! Please let us know how we can improve the Used Carz Hub App by contacting us via email or phone.
 
 ---
 
-**© 2025 Used Car Wale. All rights reserved.**
+**© 2025 Used Carz Hub. All rights reserved.**
